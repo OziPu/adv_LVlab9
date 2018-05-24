@@ -1,0 +1,21 @@
+24.05.2018 18:50:18 Initializing PLC... 
+24.05.2018 18:50:18 UI initialized 
+24.05.2018 18:50:18 Model initilalized 
+24.05.2018 18:50:18 DAQ module initialized 
+24.05.2018 18:50:18 LOG module initialized 
+24.05.2018 18:50:18 TCP module initialized 
+24.05.2018 18:50:18 PLC initialization successful! 
+24.05.2018 18:50:24 Server mode. Listening... 
+24.05.2018 18:50:36 Server mode. Listening... 
+24.05.2018 18:50:37 Connected with client 
+24.05.2018 18:50:47 Message received from client 
+24.05.2018 18:50:47 Starting process... 
+24.05.2018 18:50:47 Process has started 
+24.05.2018 18:51:10 Message received from client 
+24.05.2018 18:51:10 Closing PLC... 
+24.05.2018 18:51:10 Model closed 
+24.05.2018 18:51:10 DAQ module closed 
+24.05.2018 18:51:10 LOG module closed 
+24.05.2018 18:51:10 TCP module closed 
+24.05.2018 18:51:10 PLC shutdown successful! 
+24.05.2018 18:51:10 Application quits 
